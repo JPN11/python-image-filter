@@ -44,3 +44,18 @@ python main.py -g filter/images/python.jpg
 
 - **Sharpen Filter**
 ![Sharpen Filtered Image](filter/filtered_images/sharpen_filtered.jpg)
+
+- **Contour Filter**
+![Contour Filtered Image](filter/filtered_images/contour_filtered.jpg)
+
+- **Detail Filter**
+![Detail Filtered Image](filter/filtered_images/detail_filtered.jpg)
+
+- **Edge Filter**
+![Edge Filtered Image](filter/filtered_images/edge_filtered.jpg)
+
+- **Invert Filter**
+![Invert Filtered Image](filter/filtered_images/invert_filtered.jpg)
+
+- **Reflect Filter**
+![Reflect Filtered Image](filter/filtered_images/reflect_filtered.jpg)
